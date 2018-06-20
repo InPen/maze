@@ -1,4 +1,4 @@
 # maze
 
 *Help Sailor Moon scape the maze!*
-This project was built in the winter of 2017during my Front end boot camp with [Resilient](resilientcoders.org)
+This project was built in the winter of 2017 during my Frontend boot camp with [Resilient](https://www.resilientcoders.org/)
